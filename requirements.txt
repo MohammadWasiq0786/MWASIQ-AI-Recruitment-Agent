@@ -1,0 +1,9 @@
+streamlit
+euriai
+langchain-community
+langchain
+pypdf2
+faiss-cpu
+pandas
+python-dotenv
+matplotlib
