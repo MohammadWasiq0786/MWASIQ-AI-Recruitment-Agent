@@ -67,6 +67,7 @@ streamlit run app.py
 ├── agents.py               # Resume analysis and AI logic
 ├── requirements.txt        # Python dependencies
 ├── README.md               # Project documentation
+├── media/                  # Media Files
 
 ```
 
