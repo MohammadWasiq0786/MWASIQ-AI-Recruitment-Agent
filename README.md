@@ -78,7 +78,7 @@ streamlit run app.py
 
 ---
 
-![status](./media/02%20status.png)
+![status](https://github.com/MohammadWasiq0786/MWASIQ-AI-Recruitment-Agent/blob/main/media/02%20status.png)
 
 ---
 
